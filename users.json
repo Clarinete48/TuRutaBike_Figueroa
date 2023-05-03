@@ -1,0 +1,23 @@
+{
+    "usuarios": [{
+            "nombre": "Martín Betancourt",
+            "correo": "mbtanco@gmail.com",
+            "comentario": "¿Tienen delivery a la novena región?"
+        },
+        {
+            "nombre": "Jesús Rivero",
+            "correo": "kike@gmail.com",
+            "comentario": "¿Cuánto tarda en llegar a la RM?"
+        },
+        {
+            "nombre": "Pablo León",
+            "correo": "djmizac@gmail.com",
+            "comentario": "¿Tienen bicis de DownHill disponibles?"
+        },
+        {
+            "nombre": "Alicia Figueroa",
+            "correo": "Alice@gmail.com",
+            "comentario": "¿Qué métodos de pago aceptan?"
+        }
+    ]
+}
